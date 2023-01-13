@@ -1,0 +1,6 @@
+/*Los archivos de estilos de nuestros componentes, debe tener la terminación '.module.css' para que puedan ser creados y utilizados de forma individual para cada componente | No pueden ser llamados los elementos de forma 'pura' si no son llamados como hijos de alguna clase o id creado */
+
+/* Estilos creados para los elementos 'a' que se encuentren dentro de la clase 'menu-container*/
+.menu-container a {
+  margin: 20px;
+}

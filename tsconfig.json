@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/ActiveLink.tsx", "components/layouts/MainLayout.tsx", "pages/about/index.jsx", "pages/_app.tsx"],
   "exclude": ["node_modules"]
 }
